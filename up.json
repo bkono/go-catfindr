@@ -1,0 +1,7 @@
+{
+  "name": "go-catfindr",
+  "profile": "default",
+  "regions": [
+    "us-west-1"
+  ]
+}
